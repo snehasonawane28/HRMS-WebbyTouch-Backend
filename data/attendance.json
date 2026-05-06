@@ -1,0 +1,37 @@
+[
+  {
+    "emp_id": "2",
+    "date": "2026-05-05",
+    "status": "present"
+  },
+  {
+    "emp_id": "2",
+    "date": "2026-05-06",
+    "status": "half_day"
+  },
+  {
+    "emp_id": "2",
+    "date": "2026-05-07",
+    "status": "half_day"
+  },
+  {
+    "emp_id": "2",
+    "date": "2026-05-08",
+    "status": "holiday"
+  },
+  {
+    "emp_id": "2",
+    "date": "2026-05-09",
+    "status": "weekly_off"
+  },
+  {
+    "emp_id": "2",
+    "date": "2026-05-10",
+    "status": "half_day"
+  },
+  {
+    "emp_id": "3",
+    "date": "2026-05-06",
+    "status": "present"
+  }
+]
